@@ -40,8 +40,8 @@ class Header extends Component {
          <img src={logo} className="App-logo" alt="logo" />
             </p>
          <div className="banner-text">
-            <h2 className="responsive-headline">PentaPrism IT</h2>
-            <h4>PentaPrism IT{description}.</h4>
+            <h2 className="responsive-headline">Vanguard Code Labs</h2>
+            <h4>Vanguard Code Labs{description}.</h4>
             <hr />
             <ul className="social">
                {networks}
